@@ -1,6 +1,6 @@
 # Fashion-MNIST-Image-Classification
 
-# Google Colab link: https://colab.research.google.com/drive/1dFLPDTZiVU6aapz2yIstk6_mVmlwKVWn?usp=sharing
+# Google Colab link: https://colab.research.google.com/drive/1L0m7zpuiaB12x5qYXhBSVAs3DmVVez-a
 
 
 #1. What is the Fashion MNIST dataset?
